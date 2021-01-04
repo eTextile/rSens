@@ -17,7 +17,7 @@ The rSens solution is a PCB that is useful for making some **signal conditioning
 
 ## Prerequisite
 - The rSens PCB can be used in combination with any resistive sensors (custom or industrial)
-- An onboard DIL resistor need to be hand soldered to form an **optimised voltage divider**
+- Adding R1 resistor to form an [optimised voltage divider](./Hardware#prerequisite)
 
 **Keywords** `FSR`,`strain gages`,`e-textile`,`digital musical instruments`,`Do-It-Yourself`
 
