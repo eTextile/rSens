@@ -22,11 +22,12 @@ To run this script you will need first to identify your sensor characteristics i
 
 1. First Arg is the **minimum value** of your FSR (Ohm unit)
 2. Second Arg is the **maximum value** of your FSR (Ohm unit)
-3. Third Arg is the **input voltage** of the voltage divider (Volts unit)
 
 ```
 cd rSens/docs
-python R1_calculator.py 200 3450 3.3
+```
+```
+python R1_calculator.py 200 3450
 ```
 
 4. After all you can proceed to solder the calculated DIL resistor on to the PCB
