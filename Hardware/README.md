@@ -15,8 +15,9 @@ The first one (rSens_DIL) is a proof of concept that have been done for an e-Tex
 The second one (rSens_SMD) is a redesign that have been done to optimize the form factor of the PCB and add a second amplification line. All source files are made with [KiCad](https://kicad.org/) 5.0.* 
 
 ## Prerequisite
-### Optimise the voltage divider
-- Calculate the onboard DIL resistor **R1** using the python script included in the docs folder
+- Calculate the onboard DIL resistor **R1** using the included Python script [R1_calculator.py](../docs/R1_calculator.py).
+This Python script will calculate automaticly the optimised resistor you need in order to get the best voltage divider Efficiency.
+
 - Solder the calculated DIL resistor to the PCB
 
 # External links
