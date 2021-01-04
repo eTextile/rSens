@@ -16,7 +16,7 @@ The second one (rSens_SMD) is a redesign that have been done to optimize the for
 
 ## Prerequisite
 Calculate the onboard DIL resistor **R1** using the included Python script [R1_calculator.py](../docs/R1_calculator.py)
-This Python script will calculate automaticly the optimised resistor you need in order to get the best voltage divider Efficiency.
+This Python script will automaticly calculate the best resistor value that you need to get the best voltage divider efficiency.
 
 To run this script you will need first to identify your sensor characteristics in order to be able to pass those values as arguments to the script :
 
