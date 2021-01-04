@@ -30,7 +30,13 @@ cd rSens/docs
 python R1_calculator.py 200 3450
 ```
 
-4. After all you can proceed to solder the calculated DIL resistor on to the PCB
+4. If you run the script with the below values you must get the folowing result
+
+```
+R1 = 830 Ohm
+Efficiency = 61.19 %
+```
+5. After all you can solder the calculated R1 resistor on to the PCB
 
 # External links
 - Article : A Comprehensive Review of Sensors and Instrumentation Methods in Devices for Musical Expression
