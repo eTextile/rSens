@@ -10,9 +10,10 @@
 - License: CC-BY-SA (see the License file)
 
 ## Hardware folder
-This folder is contaning two versions of the project.
-The first one (rSens_DIL) is a proof of concept that have been done for an e-Textile one stage performance.
-The second one (rSens_SMD) is a redesign that have been done to optimize the form factor of the PCB and add a second amplification line. All source files are made with [KiCad](https://kicad.org/) 5.0.* 
+- This folder is contaning two versions of the project.
+- The first one (rSens_DIL) is a proof of concept that have been done for an e-Textile one stage performance.
+- The second one (rSens_SMD) is a redesign that have been done to optimize the form factor of the PCB and add a second amplification line.
+- All source files are made with [KiCad](https://kicad.org/) 5.0.* 
 
 ## Prerequisite
 Calculate the onboard DIL resistor **R1** using the included Python script [R1_calculator.py](../docs/R1_calculator.py)
@@ -30,7 +31,7 @@ cd rSens/docs
 python R1_calculator.py 200 3450
 ```
 
-4. If you run the script with the above arguments you must get the following result
+3. If you run the script with the above arguments you must get the following result
 
 ```
 R1 = 830 Ohm
