@@ -14,7 +14,6 @@ The rSens solution is a PCB that is useful for making some **signal conditioning
 ## Project content
 - **Hardware**: containing all PCB sources files of the project
 - **Firmware**: read analog sensor values with [Arduino](https://www.arduino.cc/)
-- **Softwear**: visualizing those values in time with [Processing](https://processing.org/)
 
 - The rSens PCB can be used in combination with any resistive sensors (custom or industrial)
 - An onboard DIL resistor need to be hand soldered to form an **optimised voltage divider**
