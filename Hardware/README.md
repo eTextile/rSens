@@ -1,4 +1,4 @@
-# rSens
+# rSens / Hardwear
 ## Resistive sensors signal conditioning
 ### How to improve your resistive sensor (FSR) sensitivity
 
@@ -16,7 +16,7 @@ The second one (rSens_SMD) is a redesign that have been done to optimize the for
 
 ## Prerequisite
 ### Optimise the voltage divider
-- Calculate the onboard DIL resistor R1 using the python script included in the docs folder
+- Calculate the onboard DIL resistor **R1** using the python script included in the docs folder
 - Solder the calculated DIL resistor to the PCB
 
 # External links
