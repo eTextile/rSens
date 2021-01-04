@@ -20,8 +20,8 @@ This Python script will automaticly calculate the best resistor value that you n
 
 To run this script you will need first to identify your sensor characteristics in order to be able to pass those values as arguments to the script :
 
-1. First Arg is the **minimum value** of your FSR (Ohm unit)
-2. Second Arg is the **maximum value** of your FSR (Ohm unit)
+1. First Arg is the resistivity (in Ohm) of your FSR sensor at rest
+2. Second Arg is the resistivity (in Ohm) of your FSR sensor at maximum effort
 
 ```
 cd rSens/docs
