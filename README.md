@@ -13,7 +13,7 @@ The rSens solution is a PCB that is useful for making some **signal conditioning
 
 ## Project content
 - **Hardware**: containing all PCB sources files of the project
-- **Firmware**: read analog sensor values with [Arduino](https://www.arduino.cc/)
+- **Firmware**: read and graph the analog sensor values with [Arduino](https://www.arduino.cc/)
 
 ## Prerequisite
 - The rSens PCB can be used in combination with any resistive sensors (custom or industrial)
