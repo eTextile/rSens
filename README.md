@@ -15,10 +15,11 @@ The rSens solution is a PCB that is useful for making some **signal conditioning
 - **Hardware**: containing all PCB sources files of the project
 - **Firmware**: read analog sensor values with [Arduino](https://www.arduino.cc/)
 
+## Prerequisite
 - The rSens PCB can be used in combination with any resistive sensors (custom or industrial)
 - An onboard DIL resistor need to be hand soldered to form an **optimised voltage divider**
 
-**Keywords** 'FSR','strain gages','e-textile','digital musical instruments','Do-It-Yourself'
+**Keywords** `FSR`,`strain gages`,`e-textile`,`digital musical instruments`,`Do-It-Yourself`
 
 # External links
 - The Arduino [map() function](https://www.arduino.cc/reference/en/language/functions/math/map/)
