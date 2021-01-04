@@ -30,7 +30,7 @@ cd rSens/docs
 python R1_calculator.py 200 3450
 ```
 
-4. If you run the script with the below values you must get the folowing result
+4. If you run the script with the above arguments you must get the following result
 
 ```
 R1 = 830 Ohm
