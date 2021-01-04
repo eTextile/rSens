@@ -3,8 +3,8 @@
 ### How to improve your resistive sensor sensitivity
 
 - Team project:
-    - Pauline Vierne <pauline.vierne[AT]gmail.com>
-    - Maurin Donneaud <maurin[AT]etextile.org>
+    - **Pauline Vierne** <pauline.vierne[AT]gmail.com>
+    - **Maurin Donneaud** <maurin[AT]etextile.org>
 - Repository: https://github.com/eTextile/rSens/tree/master
 - Project web page: http://rsens.eTextile.org (TODO)
 - License: CC-BY-SA (see the License file)
