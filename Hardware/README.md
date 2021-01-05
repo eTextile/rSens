@@ -42,3 +42,4 @@ Efficiency = 61.19 %
 # External links
 - Article : A Comprehensive Review of Sensors and Instrumentation Methods in Devices for Musical Expression
 - op-Amp datasheet : TODO
+- [Voltage divider](https://en.wikipedia.org/wiki/Voltage_divider)
