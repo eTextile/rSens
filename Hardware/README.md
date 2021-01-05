@@ -1,4 +1,4 @@
-# rSens / Hardwear
+# rSens / Hardware
 ## Resistive sensors signal conditioning
 ### How to improve your resistive sensor (FSR) sensitivity
 
