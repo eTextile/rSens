@@ -19,10 +19,10 @@
 Calculate the onboard DIL resistor **R1** using the included Python script [R1_calculator.py](../docs/R1_calculator.py)
 This Python script will automaticly calculate the resistor value that you need to get the best voltage divider efficiency.
 
-To run this script you will need first to identify your sensor characteristics in order to be able to pass those values as arguments to the script :
+To run this script you will first need to get your sensor characteristics by using a conventional multimeter. Then you will use these values as arguments to run the script :
 
-1. First Arg is the resistivity (in Ohm) of your FSR sensor at rest
-2. Second Arg is the resistivity (in Ohm) of your FSR sensor at maximum effort
+1. **First Arg** is the resistivity (in Ohm) of your FSR sensor at rest
+2. **Second Arg** is the resistivity (in Ohm) of your FSR sensor at maximum effort
 
 ```
 cd rSens/docs
