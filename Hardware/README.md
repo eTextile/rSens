@@ -15,7 +15,7 @@
 - **rSens_SMD** is a redesign that has been done to optimize the form factor of the PCB and add a second amplification line.
 - All source files are made with [KiCad](https://kicad.org/) 5.0.* 
 
-![rSens_DIL_schematics](./docs/picture/rSens_DIL_schematics.png)
+![rSens_DIL_schematics](../docs/picture/rSens_DIL_schematics.png)
 
 ## Prerequisite
 Calculate the onboard DIL resistor **R1** using the included Python script [R1_calculator.py](../docs/R1_calculator.py)
