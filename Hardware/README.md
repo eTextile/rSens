@@ -1,4 +1,4 @@
-# rSens / Hardwear
+# rSens / Hardware
 ## Resistive sensors signal conditioning
 ### How to improve your resistive sensor (FSR) sensitivity
 
@@ -11,15 +11,15 @@
 
 ## Hardware folder
 - This folder is contaning two versions of the project.
-- **rSens_DIL** is a proof of concept that have been done for an e-Textile one stage performance.
-- **rSens_SMD** is a redesign that have been done to optimize the form factor of the PCB and add a second amplification line.
+- **rSens_DIL** is a proof of concept that has been done for an e-Textile one stage performance.
+- **rSens_SMD** is a redesign that has been done to optimize the form factor of the PCB and add a second amplification line.
 - All source files are made with [KiCad](https://kicad.org/) 5.0.* 
 
 ![rSens_DIL_schematics](./docs/picture/rSens_DIL_schematics.png)
 
 ## Prerequisite
 Calculate the onboard DIL resistor **R1** using the included Python script [R1_calculator.py](../docs/R1_calculator.py)
-This Python script will automaticly calculate the resistor value that you need to get the best voltage divider efficiency.
+This Python script will automatically calculate the resistor value that you need to get the best voltage divider efficiency.
 
 To run this script you will first need to get your sensor characteristics by using a conventional multimeter. Then you will use these values as arguments to run the script :
 
@@ -39,7 +39,7 @@ python R1_calculator.py 200 3450
 R1 = 830 Ohm
 Efficiency = 61.19 %
 ```
-5. After all you can solder the calculated R1 resistor on to the PCB
+5. After all you can solder the calculated R1 resistor onto the PCB
 
 # External links
 - Article : A Comprehensive Review of Sensors and Instrumentation Methods in Devices for Musical Expression
