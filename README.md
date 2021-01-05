@@ -9,7 +9,9 @@
 - Project web page: http://rsens.eTextile.org (TODO)
 - License: CC-BY-SA (see the License file)
 
-The rSens solution is a PCB that is useful for **signal conditioning** (scale & offset) before using your microcontroller Analog to Digital Converter (ADC). In other words this project can be compared to the Arduino map() function but instead of using software fonction you will use this hardware eTextile PCB to zoom into the significant values without losing any resolution. The rSens PCB is built on top of a quad op-Amp that offers the possibility to work with two FSR.
+The rSens solution is a PCB that is useful for **signal conditioning** (scale & offset) before using your microcontroller Analog to Digital Converter (ADC). It is placed between a resistive sensor and the Analog pin of your chosen microcontroller. 
+In other words this project can be compared to the Arduino map() function but instead of using software fonction you will use this hardware eTextile PCB to zoom into the significant values without losing any resolution. It should also offer advantages of filtering out noise usually picked up by voltage dividers. 
+The rSens PCB is built on top of a quad op-Amp and allows to connect and amplify two FSR (SMD version).
 
 ## Project content
 - **Hardware**: containing all PCB source files of the project
