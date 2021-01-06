@@ -1,5 +1,5 @@
 # rSens / Hardware
-## Resistive sensors signal conditioning
+## E-textile resistive sensors signal conditioning
 ### How to improve your resistive sensor (FSR) sensitivity
 
 - Team project:
