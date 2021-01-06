@@ -9,6 +9,7 @@
 - Project web page: http://rsens.eTextile.org (TODO)
 - License: CC-BY-SA (see the License file)
 
+
 The rSens solution is a PCB that is useful for **signal conditioning** (scale, offset and filtering). It is placed between the Analog pin of your chosen microcontroller and a resistive sensor to improve its sensitivity.
 
 It seemed to us that signal conditioning for e-textile sensors is often overseen or ignored, and in the best case made as bricolage at software level (thinking of Arduino map() function or interpolating methods).
