@@ -4,8 +4,8 @@ import sys
 
 R_MIN = float(sys.argv[1])
 R_MAX = float(sys.argv[2])
-#VCC = 3.3
-VCC = 5.0
+VCC = 3.3
+#VCC = 5.0
 
 lastEfficiency = 0;
 
