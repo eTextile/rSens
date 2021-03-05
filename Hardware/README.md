@@ -51,6 +51,21 @@ Efficiency = 61.19 %
 |  RV2,RV1,RV3,RV4         | C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       |    4     |  100K	     |
 |  U2                      | TSSOP-14_4.4x5mm_P0.65mm                          |    1     |  MCP6244	 |
 
+## PCB specifications
+- **Base Material** : FR-4 TG130
+- **No. of Layers** : 2 layers
+- **PCB Dimensions** : 70mm / 76mm
+- **No. of Different Designs** : 1
+- **PCB Thickness** : 1.00 mm
+- **PCB Color** : Black
+- **Surface Finish** : ENIG
+- **Minimum Solder Mask Dam** : 0.4mm
+- **Copper Weight** : 1oz.
+- **Minimum Drill Hole Size** : 0.3mm
+- **Trace Width / Spacing** : 6/6 mil
+- **Plated Half-holes / Castellated Holes** : Yes
+- **Impedance Control** : No
+
 # External links
 - Article : A Comprehensive Review of Sensors and Instrumentation Methods in Devices for Musical Expression
 - op-Amp datasheet : TODO
