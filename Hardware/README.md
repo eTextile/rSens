@@ -42,7 +42,6 @@ Efficiency = 61.19 %
 5. After all you can solder the calculated R1 resistor onto the PCB
 
 ## BOM rSens_SMD
-
 | Référence                | Def                                               | Quantity | Value        |
 |:-------------------------|:--------------------------------------------------|----------|:-------------|
 |  R6,R8,R9,R7,R5,R4,R3,R2 | R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       |    8     |  10K	     |

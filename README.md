@@ -32,5 +32,5 @@ The rSens PCB is built on top of a quad op-Amp and allows to connect and amplify
 
 # External links
 - The Arduino [map() function](https://www.arduino.cc/reference/en/language/functions/math/map/)
-- op-Amp datasheet
+- op-Amp [datasheet](./docs/datasheet_MCP6241.pdf)
 
