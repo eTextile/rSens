@@ -9,7 +9,7 @@
 - Project web page: http://rsens.eTextile.org (TODO)
 - License: CC-BY-SA (see the License file)
 
-![rSens_SMD_top](./docs/picture/rSens_SMD_top.png)
+![rSens_SMD_top](./Hardware_electronic/docs/picture/rSens_SMD_top.png)
 
 The rSens solution is a PCB that is useful for **signal conditioning** (scale, offset and filtering). It is placed between the Analog pin of your chosen microcontroller and a resistive sensor to improve its sensitivity.
 
@@ -21,7 +21,8 @@ It should also offer advantages of filtering out noise usually picked up by volt
 The rSens PCB is built on top of a quad op-Amp and allows to connect and amplify two FSR (SMD version).
 
 ## Project content
-- **Hardware**: containing all PCB source files of the project
+- **Hardware_electronic**: PCB source files
+- **Hardware_textile**: conductive textile PCB extension source files
 - **Firmware**: read and graph the analog sensor values with [Arduino](https://www.arduino.cc/)
 
 ## Prerequisite
@@ -32,5 +33,6 @@ The rSens PCB is built on top of a quad op-Amp and allows to connect and amplify
 
 # External links
 - The Arduino [map() function](https://www.arduino.cc/reference/en/language/functions/math/map/)
-- op-Amp [datasheet](./docs/datasheet_MCP6241.pdf)
+- [A Comprehensive Review of Sensors and Instrumentation Methods in Devices for Musical Expression](./docs/A_Comprehensive_Review_of_Sensors_and_Instrumentat.pdf) (Article)
+- op-Amp [datasheet](./Hardware_electronic/docs/datasheet_MCP6241.pdf)
 

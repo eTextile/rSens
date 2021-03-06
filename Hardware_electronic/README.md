@@ -15,7 +15,7 @@
 - **rSens_SMD** is a redesign that has been done to optimize the form factor of the PCB and add a second amplification line.
 - All source files are made with [KiCad](https://kicad.org/) 5.0.* 
 
-![rSens_DIL_schematics](../docs/picture/rSens_DIL_schematics.png)
+![rSens_DIL_schematics](../Hardware_electronic/docs/rSens_DIL_schematics.png)
 
 ## Prerequisite
 Calculate the onboard DIL resistor **R1** using the included Python script [R1_calculator.py](../docs/R1_calculator.py)
@@ -66,6 +66,6 @@ Efficiency = 61.19 %
 - **Impedance Control** : No
 
 # External links
-- Article : A Comprehensive Review of Sensors and Instrumentation Methods in Devices for Musical Expression
-- op-Amp datasheet : TODO
-- [Voltage divider](https://en.wikipedia.org/wiki/Voltage_divider)
+- [A Comprehensive Review of Sensors and Instrumentation Methods in Devices for Musical Expression](../docs/A_Comprehensive_Review_of_Sensors_and_Instrumentat.pdf) (Article)
+- [Voltage divider - wikipedia](https://en.wikipedia.org/wiki/Voltage_divider)
+- [op-Amp datasheet](./Hardware_electronic/docs/datasheet_MCP6241.pdf)
