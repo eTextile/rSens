@@ -47,7 +47,7 @@ Efficiency = 61.19 %
 |  R6,R8,R9,R7,R5,R4,R3,R2 | R_0805_2012Metric_Pad1.20x1.40mm_HandSolder       |    8     |  10K	     |
 |  R1,R10                  | R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal |    2     |  USER_DEFINE |
 |  C2,C3,C1                | C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       |    3     |  100N	     |
-|  RV2,RV1,RV3,RV4         | C_0805_2012Metric_Pad1.18x1.45mm_HandSolder       |    4     |  100K	     |
+|  RV2,RV1,RV3,RV4         | Potentiometer_Vishay_TS53YJ_Vertical              |    4     |  100K	     |
 |  U2                      | TSSOP-14_4.4x5mm_P0.65mm                          |    1     |  MCP6244	 |
 
 ## PCB specifications
@@ -68,4 +68,4 @@ Efficiency = 61.19 %
 # External links
 - [A Comprehensive Review of Sensors and Instrumentation Methods in Devices for Musical Expression](../docs/A_Comprehensive_Review_of_Sensors_and_Instrumentat.pdf) (Article)
 - [Voltage divider - wikipedia](https://en.wikipedia.org/wiki/Voltage_divider)
-- [op-Amp datasheet](./Hardware_electronic/docs/datasheet_MCP6241.pdf)
+- [op-Amp datasheet](./docs/datasheet_MCP6241.pdf)
