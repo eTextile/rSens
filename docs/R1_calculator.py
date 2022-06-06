@@ -24,6 +24,6 @@ for R1 in range(100, 10000000, 10) :
     #print " - Range ", "%.2f" % (V_max - V_min),
     #print " ] Efficiency ", "%.2f" % ((V_max - V_min) / VCC * 100)
 
-print "R1 = %d Ohm" % resistor
-print "Efficiency = %.2f %%" % lastEfficiency
+print ("R1 = %d Ohm" % resistor)
+print ("Efficiency = %.2f %%" % lastEfficiency)
 
